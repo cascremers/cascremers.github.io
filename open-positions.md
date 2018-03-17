@@ -45,12 +45,12 @@ If you have a research idea or proposal already than that is great, but we are a
 
 Interested? Send Cas an email at
 
-  cas.cremers@cs.ox.ac.uk
-    
+  [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)
+  
 Cas Cremers<br />
-e-mail: cas.cremers@cs.ox.ac.uk<br />
-web: https://www.cs.ox.ac.uk/people/cas.cremers/intro.html<br />
-twitter: https://twitter.com/CasCremers<br />
+e-mail: [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)<br />
+web: [https://www.cs.ox.ac.uk/people/cas.cremers/intro.html](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html)<br />
+twitter: [https://twitter.com/CasCremers](https://twitter.com/CasCremers)<br />
 
 
 
