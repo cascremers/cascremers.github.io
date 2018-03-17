@@ -1,5 +1,5 @@
 ---
-Title: Open positions in Security and Formal Analysis
+title: Open positions in Security and Formal Analysis
 ---
 
 # Multiple open PhD and Postdoc positions in security and formal analysis
