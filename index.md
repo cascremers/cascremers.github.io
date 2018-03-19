@@ -1,6 +1,3 @@
-# Test 3
+# Welcome
 
-## Important message
-
-Hello, world.
 
