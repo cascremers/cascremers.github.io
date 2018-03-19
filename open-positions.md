@@ -2,9 +2,9 @@
 title: Open positions in Security and Formal Analysis
 ---
 
-# Multiple open PhD and Postdoc positions in security and formal analysis
+# Multiple open PhD and postdoc positions in security and formal analysis
 
-Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbruecken, Germany, and has several open PhD and Postdoc positions. Please get in touch if you are interested!
+Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please get in touch if you are interested!
 
 ## Our research
 
@@ -22,9 +22,9 @@ For some examples of our work, see:
 
 ## Candidates
 
-We are looking for excellent students and PhDs. We are particularly interested in attracting a broad range of candidates, and are committed to diversity and inclusion. We also enjoy our work, and feel that the working place should be enjoyable for everyone, and allow for flexible working hours — ask our alumni and current students for references.
+We are looking for excellent students and PhDs. We are particularly interested in attracting a broad range of candidates, and are committed to diversity and inclusion. We also enjoy our work, and feel that the working place should be enjoyable for everyone, and allow for flexible working hours - ask our alumni and current students for references.
 
-The research group will be situated in Saarbruecken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid according to the relevant German pay scales. 
+The research group will be situated in Saarbrücken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid according to the relevant German pay scales. 
 
 ## Requirements
 
@@ -38,7 +38,7 @@ Evidence of knowledge in the following backgrounds would be beneficial:
 - Theorem proving
 - Cryptography
 
-If you have a research idea or proposal already than that is great, but we are also happy to work with good candidates to find a topic that works for all. We have many exciting ongoing research projects.
+If you have a research idea or proposal already then that is great, but we are also happy to work with good candidates to find a topic that works for all. We have many exciting ongoing research projects.
 
 
 ## Get in touch!
