@@ -50,8 +50,8 @@ Interested? Send Cas an email at
   [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)
   
 Cas Cremers<br />
-web: [https://www.cs.ox.ac.uk/people/cas.cremers/intro.html](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html)<br />
-twitter: [https://twitter.com/CasCremers](https://twitter.com/CasCremers)<br />
+[Research pages](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html)<br />
+[Twitter](https://twitter.com/CasCremers)<br />
 
 
 
