@@ -26,7 +26,7 @@ For some examples of our work, see:
 
 We are looking for excellent students and PhDs. We are particularly interested in attracting a broad range of candidates, and are committed to diversity and inclusion. We also enjoy our work, and feel that the working place should be enjoyable for everyone, and allow for flexible working hours&mdash;ask our alumni and current students for references.
 
-The research group is situated in Saarbrücken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid according to the relevant German pay scales. 
+The research group is situated in Saarbrücken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid well, according to the relevant German pay scales, and include full benefits.
 
 ## Requirements
 
