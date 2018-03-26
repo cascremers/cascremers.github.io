@@ -10,7 +10,7 @@ Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) i
 
 ## Our research
 
-Our research focuses around security analysis and communication systems, for which we provide mathematical foundations, analysis tools, and novel security mechanisms.  For example, we contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the Scyther tool and the Tamarin prover.
+Our research focuses around security analysis and communication systems, for which we provide mathematical foundations, analysis tools, and novel security mechanisms.  For example, we contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://www.cs.ox.ac.uk/people/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
 
 Our methodology typically ranges from theoretical work (formal methods, term rewriting, process calculi, game-hopping proofs, computational and symbolic approaches) to algorithms for analysis tools (e.g., interactive theorem proving, constraint solving), to the development of new protocols (e.g., for the automatic detection of misuse of secrets, or strongly secure group messaging).
 
