@@ -22,6 +22,8 @@ For some examples of our work, see:
   internet standard for secure messaging,
   [MLS](https://tools.ietf.org/html/draft-barnes-mls-protocol-00)
 
+<span class="imageline"><img src="assets/images/whiteboards.jpg"></span>
+
 ## Candidates
 
 We are looking for excellent students and PhDs. We are particularly interested in attracting a broad range of candidates, and are committed to diversity and inclusion. We also enjoy our work, and feel that the working place should be enjoyable for everyone, and allow for flexible working hours&mdash;ask our alumni and current students for references.
