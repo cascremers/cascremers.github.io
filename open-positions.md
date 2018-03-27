@@ -29,7 +29,7 @@ For some examples of our work, see:
   internet standard for secure messaging,
   [Messaging Layer Security](https://tools.ietf.org/html/draft-barnes-mls-protocol-00)
 
-<span class="imageline"><a href="assets/images/whiteboards.jpg"><img src="assets/images/whiteboards.jpg"></a></span>
+<span class="imageline"><a href="assets/images/whiteboards.jpg"><img src="assets/images/whiteboards.jpg" alt="Random whiteboard content"></a></span>
 
 ## Candidates
 
@@ -37,7 +37,7 @@ We are looking for excellent students and PhDs. We are particularly interested i
 
 The research group is situated in Saarbrücken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid well, according to the relevant German pay scales, and include full benefits.
 
-<span class="imageline"><a href="assets/images/people.jpg"><img src="assets/images/people.jpg"></a></span>
+<span class="imageline"><a href="assets/images/people.jpg"><img src="assets/images/people.jpg" alt="People"></a></span>
 
 ## Requirements
 
