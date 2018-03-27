@@ -19,7 +19,10 @@ a:hover,a:focus {
 	width: 100%;
 }
 
-.oneline a {
+.oneline {
   vertical-align: text-bottom;
 }
+
+.twitter-share-button[style] { vertical-align: text-bottom !important; }
+
 
