@@ -24,6 +24,8 @@ a:hover,a:focus {
   line-height: 20px;
 }
 
-.twitter-share-button[style] { vertical-align: middle !important; }
-
+iframe[style] { /* to select the outer-most element of the twitter button */
+    display: inline-block;
+    vertical-align: bottom !important;
+} 
 
