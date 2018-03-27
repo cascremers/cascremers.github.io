@@ -8,11 +8,11 @@ title: Open positions in Security and Formal Analysis
 
 Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cas.cremers@cs.ox.ac.uk) if you are interested!
 
+<div class="fb-share-button" data-href="http://cascremers.com/open-positions.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcascremers.com%2Fopen-positions.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw"
 class="twitter-share-button" data-via="CasCremers"
 data-show-count="false">Tweet</a><script async
 src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="fb-share-button" data-href="http://cascremers.com/open-positions.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcascremers.com%2Fopen-positions.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 
 ## Our research
 
