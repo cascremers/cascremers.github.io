@@ -21,7 +21,7 @@ Our methodology typically ranges from theoretical work (formal methods, term rew
 
 For some examples of our work, see:
 
-- [Tamarin prover](https://tamarin-prover.github.io/) and its [theory paper](https://www.cs.ox.ac.uk/people/cas.cremers/downloads/papers/dh_tamarin_extended_v1.pdf)
+- [Tamarin prover](https://tamarin-prover.github.io/) and its initial [theory paper](https://www.cs.ox.ac.uk/people/cas.cremers/downloads/papers/dh_tamarin_extended_v1.pdf)
 - [TLS 1.3 protocol analysis](https://tls13tamarin.github.io/TLS13Tamarin/docs/tls13tamarin-draft21.pdf)
 - [Signal protocol analysis](https://eprint.iacr.org/2016/1013.pdf)
 - [ART protocol design](https://eprint.iacr.org/2017/666.pdf), which is
