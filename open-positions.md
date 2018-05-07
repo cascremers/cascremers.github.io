@@ -66,7 +66,7 @@ Interested? Send Cas an email at
 Cas Cremers is currently Professor at the University of Oxford,
 and is moving to the CISPA-Helmholtz center June 2018.<br />
 [Research pages](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html)<br />
-[Twitter](https://twitter.com/CasCremers)<br />
+Twitter: [@CasCremers](https://twitter.com/CasCremers)<br />
 
 
 
