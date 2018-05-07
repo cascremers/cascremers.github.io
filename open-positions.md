@@ -13,7 +13,7 @@ Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) i
   <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-url="http://cascremers.com/open-positions.html" data-via="CasCremers" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-Update: Thanks to our current students Cas has been shortlisted for Oxford's
+Update: Thanks to our current students Cas has been shortlisted for the
 [outstanding graduate supervisor award](https://www.oxfordsu.org/ents/event/502/)!
 
 ## Our research
