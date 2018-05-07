@@ -13,6 +13,9 @@ Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) i
   <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-url="http://cascremers.com/open-positions.html" data-via="CasCremers" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+Update: Thanks to our current students Cas has been shortlisted for Oxford's
+[outstanding graduate supervisor award](https://www.oxfordsu.org/ents/event/502/)!
+
 ## Our research
 
 Our research focuses around security analysis and communication systems, for which we provide mathematical foundations, analysis tools, and novel security mechanisms.  For example, we contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://www.cs.ox.ac.uk/people/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
