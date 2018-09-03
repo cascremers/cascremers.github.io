@@ -6,7 +6,7 @@ title: Open positions in Security and Formal Analysis
 
 #### March 26, 2018
 
-Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cas.cremers@cs.ox.ac.uk) if you are interested!
+Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cas.cremers@cispa.saarland) if you are interested!
 
 <div class="oneline">
   <div class="fb-share-button" data-href="http://cascremers.com/open-positions.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcascremers.com%2Fopen-positions.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
@@ -61,7 +61,7 @@ If you have a research idea or proposal already then that is great, but we are a
 
 Interested? Send Cas an email at
 
-  [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)
+  [cas.cremers@cispa.saarland](mailto:cas.cremers@cispa.saarland)
   
 Cas Cremers is currently Professor at the University of Oxford,
 and is moving to the CISPA-Helmholtz center June 2018.<br />
