@@ -6,7 +6,7 @@ title: Open positions in Security and Formal Analysis
 
 #### March 26, 2018
 
-Professor [Cas Cremers](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html) is expanding his research group within the recently founded [CISPA-Helmholtz center](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cas.cremers@cispa.saarland) if you are interested!
+Professor [Cas Cremers](https://people.cispa.io/cas.cremers/index.html) is expanding his research group within the recently founded [CISPA-Helmholtz Center (i.G.)](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cas.cremers@cispa.saarland) if you are interested!
 
 <div class="oneline">
   <div class="fb-share-button" data-href="http://cascremers.com/open-positions.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcascremers.com%2Fopen-positions.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
@@ -18,13 +18,13 @@ Update: Thanks to our current students Cas has been shortlisted for the
 
 ## Our research
 
-Our research focuses around security analysis and communication systems, for which we provide mathematical foundations, analysis tools, and novel security mechanisms.  For example, we contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://www.cs.ox.ac.uk/people/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
+Our research focuses around security analysis and communication systems, for which we provide mathematical foundations, analysis tools, and novel security mechanisms.  For example, we contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://people.cispa.io/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
 
 Our methodology typically ranges from theoretical work (formal methods, term rewriting, process calculi, game-hopping proofs, computational and symbolic approaches) to algorithms for analysis tools (e.g., interactive theorem proving, constraint solving), to the development of new protocols (e.g., for the automatic detection of misuse of secrets, or strongly secure group messaging).
 
 For some examples of our work, see:
 
-- [Tamarin prover](https://tamarin-prover.github.io/) and its initial [theory paper](https://www.cs.ox.ac.uk/people/cas.cremers/downloads/papers/dh_tamarin_extended_v1.pdf)
+- [Tamarin prover](https://tamarin-prover.github.io/) and its initial [theory paper](https://people.cispa.io/cas.cremers/downloads/papers/dh_tamarin_extended_v1.pdf)
 - [TLS 1.3 protocol analysis](https://tls13tamarin.github.io/TLS13Tamarin/docs/tls13tamarin-draft21.pdf)
 - [Signal protocol analysis](https://eprint.iacr.org/2016/1013.pdf)
 - [ART protocol design](https://eprint.iacr.org/2017/666.pdf), which is
@@ -65,7 +65,7 @@ Interested? Send Cas an email at
   
 Cas Cremers is currently Professor at the University of Oxford,
 and is moving to the CISPA-Helmholtz center June 2018.<br />
-[Research pages](https://www.cs.ox.ac.uk/people/cas.cremers/intro.html)<br />
+[Research pages](https://people.cispa.io/cas.cremers/index.html)<br />
 Twitter: [@CasCremers](https://twitter.com/CasCremers)<br />
 
 
