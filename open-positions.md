@@ -30,7 +30,7 @@ For some examples of our work, see:
 - [ART protocol design](https://eprint.iacr.org/2017/666.pdf), which is
   the starting point for the development of a new open
   internet standard for secure messaging,
-  [Messaging Layer Security](https://tools.ietf.org/html/draft-barnes-mls-protocol-00)
+  [Messaging Layer Security](https://tools.ietf.org/html/draft-ietf-mls-protocol)
 
 <span class="imageline"><a href="assets/images/whiteboards.jpg"><img src="assets/images/whiteboards.jpg" alt="Random whiteboard content"></a></span>
 
