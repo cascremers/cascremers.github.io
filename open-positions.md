@@ -6,7 +6,7 @@ title: Open positions in Security and Formal Analysis
 
 #### September 2018
 
-Professor [Cas Cremers](https://people.cispa.io/cas.cremers/index.html) is expanding his research group within the recently founded [CISPA-Helmholtz Center (i.G.)](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cremers@cispa.saarland) if you are interested!
+Professor [Cas Cremers](https://people.cispa.io/cas.cremers/index.html) is expanding his research group within the recently founded [CISPA Helmholtz Center for Information Security](https://cispa.saarland/) in Saarbrücken, Germany, and has several open PhD and post-doctoral researcher positions. Please [get in touch](mailto:cremers@cispa.saarland) if you are interested!
 
 <div class="oneline">
   <div class="fb-share-button" data-href="http://cascremers.com/open-positions.html" data-layout="button" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcascremers.com%2Fopen-positions.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
@@ -38,7 +38,7 @@ For some examples of our work, see:
 
 We are looking for excellent students and PhDs. We are particularly interested in attracting a broad range of candidates, and are committed to diversity and inclusion. We also enjoy our work, and feel that the working place should be enjoyable for everyone, and allow for flexible working hours&mdash;ask our alumni and current students for references.
 
-The research group is situated in Saarbrücken, Germany within the [CISPA-Helmholtz center](https://cispa.saarland/). Positions are paid well, according to the relevant German pay scales, and include full benefits.
+The research group is situated in Germany within the [CISPA Helmholtz Center for Information Security](https://cispa.saarland/). Positions are paid well, according to the relevant German pay scales, and include full benefits.
 
 <span class="imageline"><a href="assets/images/people.jpg"><img src="assets/images/people.jpg" alt="People"></a></span>
 
@@ -63,7 +63,7 @@ Interested? Send Cas an email at
 
   [cremers@cispa.saarland](mailto:cremers@cispa.saarland)
   
-Cas Cremers moved from the University of Oxford to the CISPA-Helmholtz Center (i.G.) in June 2018.<br />
+Cas Cremers moved from the University of Oxford to the CISPA Helmholtz Center for Information Security in June 2018.<br />
 [Research pages](https://people.cispa.io/cas.cremers/index.html)<br />
 Twitter: [@CasCremers](https://twitter.com/CasCremers)<br />
 
