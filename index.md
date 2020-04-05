@@ -1,2 +1,3 @@
 
-I have several [open positions in security and formal analysis](http://cascremers.com/open-positions.html)!
+Nothing here for a bit, see
+[here](https://cispa.saarland/group/cremers/) instead.
